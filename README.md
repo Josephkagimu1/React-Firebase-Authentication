@@ -1,8 +1,7 @@
 # Authentication with React and Firebase :
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Screen Shot 2022-11-24 at 1 11 56 AM](https://user-images.githubusercontent.com/88326256/203655461-d8d56a23-3d0c-4873-9989-bebf75b02507.png)
 
-## Available Scripts
 
 In the project directory, you can run:
 
